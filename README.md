@@ -60,6 +60,4 @@ book-manager/
 └── README.md
 ```
 
-## Лицензия
 
-Этот проект лицензирован под MIT License.
